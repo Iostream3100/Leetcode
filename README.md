@@ -3,7 +3,7 @@
 ## Links
 [Leetcode Personal Profile](https://leetcode.com/iostream3100/)
 
-##Index
+## Index
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |

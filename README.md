@@ -1,5 +1,9 @@
 # Leetcode
-## Leetcode Personal Profile: [Iostream3100](https://leetcode.com/iostream3100/)
+
+## Links
+[Leetcode Personal Profile](https://leetcode.com/iostream3100/)
+
+##Index
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |

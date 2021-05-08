@@ -5,6 +5,6 @@
 
 ## Index
 
-| index |       title            | code           |  Difficulty   |
+| index |       Title            | Method/Code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
-| 0001 | Two Sum | [JavaScript](./src/0001.two-sum.1/0001.two-sum.1.js) | Easy  |
+| 0001 | Two Sum | [Brute Force](./src/0001.two-sum.1/0001.two-sum.1.js) | Easy  |

@@ -9,3 +9,6 @@
 | :---: | :-------------------:  | :----------:|  :--------:  |
 | 0001 | Two Sum | [Brute Force](./src/0001.two-sum.1/0001.two-sum.1.1.js), [Hash Table](./src/0001.two-sum.1/0001.two-sum.1.2.js)| Easy |
 | 0002 | Add Two Numbers | [Linked List](./src/0002.add-two-numbers.1/0002.add-two-numbers.1.1.js)| Medium |
+| 0003 | Longest Substring Without Repeating Characters | [Sliding Window](./src/0003.longest-substring-without-repeating-characters.3/0003.longest-substring-without-repeating-characters.3.1.js)| Medium |
+
+

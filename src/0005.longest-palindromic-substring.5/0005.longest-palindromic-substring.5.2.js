@@ -2,12 +2,7 @@
  * @param {string} s
  * @return {string}
  */
-var longestPalindrome = function(s) {
-  let isPalindrome = [];
-  for(let i = 0; i < s.length; i++) {
-    isPalindrome[i] = [];
-    isPalindrome[i][i] = true;
-  }
+ var longestPalindrome = function(s) {
 
   let longestSubstirng = s[0];
   for(let len = 2; len <= s.length; len++) { //length of tue substring

@@ -12,3 +12,4 @@
 | 0003 | Longest Substring Without Repeating Characters | [Sliding Window](./src/0003.longest-substring-without-repeating-characters.3/0003.longest-substring-without-repeating-characters.3.1.js)| Medium |
 | 0004 | Median of Two Sorted Arrays | [Binary Search](./src/0004.median-of-two-sorted-arrays.4/0004.median-of-two-sorted-arrays.4.1.js)| Hard |
 | 0005 | Longest Palindromic Substring | [Dynamic Programming](./src/0005.longest-palindromic-substring.5/0005.longest-palindromic-substring.5.1.js), [Expand Around Center](./src/0005.longest-palindromic-substring.5/0005.longest-palindromic-substring.5.2.js)| Medium |
+| 0006 | ZigZag Conversion | [String](./src/0006.zigZag-conversion.6/0006.zigZag-conversion.6.1.js) | Medium |

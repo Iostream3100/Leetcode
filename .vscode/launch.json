@@ -4,9 +4,9 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-      
     
-    
+
+  
         {
             "type": "pwa-node",
             "request": "launch",
@@ -16,5 +16,15 @@
             ],
             "program": "${workspaceFolder}/src/0005.longest-palindromic-substring.5/0005.longest-palindromic-substring.5.1.js"
         }
-    ]
+    ],
+
+    "tasks": [
+      {
+          "label": "run scheme",
+          "type": "shell",
+          "command": "scheme",
+          "args": ["<", "${file}"]
+
+      }
+  ]
 }

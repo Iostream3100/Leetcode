@@ -15,5 +15,5 @@
 | 0006 | ZigZag Conversion | [String](./src/0006.zigZag-conversion.6/0006.zigZag-conversion.6.1.js) | Medium |
 | 0007 | Reverse Integer | [String](./src/0007.reverse-integer.7/0007.reverse-integer.7.1.js) | Easy |
 | 0008 | String to Integer (atoi) | [String](./src/0008.string-to-integer-(atoi).8/0008.string-to-integer-(atoi).8.1.js) | Medium |
-| 0009 | Palindrome Number | [Simulation](src/0009.palindrome-number.9/0009.palindrome-number.9.1.js) | Easy |
-
+| 0009 | Palindrome Number | [Simulation](./src/0009.palindrome-number.9/0009.palindrome-number.9.1.js) | Easy |
+| 0010 | Regular Expression Matching | [Dynamic Programming](./src/0010.regular-expression-matching.10/0010.regular-expression-matching.10.1.js) | Hard |

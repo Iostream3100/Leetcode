@@ -1,9 +1,8 @@
 /**
- * @param {number} x
+ * @param {string} s
  * @return {number}
  */
-
-function cmp(s1, s2) { //s1>s2: 1; s1==s2:0; s1<s2:-1;
+ function cmp(s1, s2) { //s1>s2: 1; s1==s2:0; s1<s2:-1;
   let neg1 = false;
   let neg2 = false;
   if(s1[0] == '-') {
@@ -31,28 +30,53 @@ function cmp(s1, s2) { //s1>s2: 1; s1==s2:0; s1<s2:-1;
 
   return 0;
 }
-var reverse = function(x) {
+
+var myAtoi = function(s) {
   let sMaxInt = (Math.pow(2, 31) - 1).toString();
   let sMinInt = (- Math.pow(2, 31)).toString();
-  let s = x.toString();
+  let i = 0;
   let neg = false;
-
-
-  if(s[0] == '-') {
-    neg = true;
-    s = s.slice(1);
+  let sNum = "";
+  while(s[i] == ' ' && i < s.length){
+    i++;
   }
-
-  let sReversed = s.split("").reverse().join("");
-  if(neg){
-    sReversed = "-" + sReversed;
-  }
-
-  if(cmp(sReversed, sMaxInt) == 1 || cmp(sReversed, sMinInt) == -1) { //overflow
+  if(i == s.length){
     return 0;
   }
 
-  return sReversed;
+  if(s[i] == '+' || s[i] == '-') {
+    if(s[i] == '-'){
+      neg = true;
+    }
+    i++;
+  }
+
+  while(i < s.length && s[i] >= '0' && s[i] <= '9') {
+    sNum = sNum + s[i];
+    i++;
+  }
+
+  while(sNum.length && sNum[0] == '0') {
+    sNum = sNum.slice(1);
+  }
+  if(sNum.length == 0){
+    return 0;
+  }
+
+  if(neg) {
+    sNum = '-' + sNum;
+  }
+
+  if(cmp(sNum, sMinInt) == -1) {
+    return sMinInt;
+  }
+  if(cmp(sNum, sMaxInt) == 1) {
+    return sMaxInt;
+  }
+
+  return sNum;
 };
 
-// console.log(reverse(1563847412))
+console.log(myAtoi("  -0k4"));
+
+console.log(myAtoi("  -42"));

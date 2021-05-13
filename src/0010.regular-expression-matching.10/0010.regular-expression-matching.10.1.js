@@ -3,7 +3,7 @@
  * @param {string} p
  * @return {boolean}
  */
-var isMatch = function(s, p) {
+var isMatch = function(s, p) { //can be optimized
   s = ' ' + s;
   p = ' ' + p; //to match empty string
   let match = []; //match[i][j]: true if s[0..i] can be matched by p[0..j]

@@ -11,7 +11,6 @@ var maxArea = function(height) {
   nodeList.sort(function(a, b) {
     return b.h - a.h;
   });
-  // console.log(nodeList);
 
   let minIndex = nodeList[0].index;
   let maxIndex = nodeList[0].index;

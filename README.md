@@ -18,3 +18,4 @@
 | 0009 | Palindrome Number | [Simulation](./src/0009.palindrome-number.9/0009.palindrome-number.9.1.js) | Easy |
 | 0010 | Regular Expression Matching | [Dynamic Programming](./src/0010.regular-expression-matching.10/0010.regular-expression-matching.10.1.js) | Hard |
 | 0011 | Container With Most Water | [Sort](src/0011.container-with-most-water.11/0011.container-with-most-water.11.1.js), [List](src/0011.container-with-most-water.11/0011.container-with-most-water.11.2.js), [Two Pointer](src/0011.container-with-most-water.11/0011.container-with-most-water.11.3.js)| Medium |
+| 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

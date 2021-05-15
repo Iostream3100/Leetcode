@@ -20,4 +20,5 @@
 | 0011 | Container With Most Water | [Sort](src/0011.container-with-most-water.11/0011.container-with-most-water.11.1.js), [Array](src/0011.container-with-most-water.11/0011.container-with-most-water.11.2.js), [Two Pointer](src/0011.container-with-most-water.11/0011.container-with-most-water.11.3.js)| Medium |
 | 0012 | Interger to Roman | [Math/String](src/0012.integer-to-roman.12/0012.integer-to-roman.12.1.js) | Medium |
 | 0013 | Roman to Interger | [Math/String](src/0013.roman-to-integer.13/0013.roman-to-integer.13.1.js) | Easy |
+| 0014 | Longest Common Prefix | [String](src/0014.longest-common-prefix.14/0014.longest-common-prefix.14.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

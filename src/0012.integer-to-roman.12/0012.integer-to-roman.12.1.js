@@ -20,7 +20,7 @@ var intToRoman = function(num) {
     100:   'C', 500:  'D',
     1000:  'M', 5000: '_V',
     10000: '_X'
-  }
+  };
   let s = num.toString();
   let sConverted = "";
   for(let i = 0; i < s.length; i++) {

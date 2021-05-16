@@ -22,4 +22,5 @@
 | 0013 | Roman to Interger | [Math/String](src/0013.roman-to-integer.13/0013.roman-to-integer.13.1.js) | Easy |
 | 0014 | Longest Common Prefix | [String](src/0014.longest-common-prefix.14/0014.longest-common-prefix.14.1.js) | Easy |
 | 0015 | 3Sum | [Array](src/0015.3Sum.15/0015.3Sum.15.1.js), [Two Pointers](src/0015.3Sum.15/0015.3Sum.15.2.js) | Medium |
+| 0016 | 3Sum Closest | [Array/Two Pointers](src/0016.3Sum-closest.16/0016.3Sum-closest.16.1.js)| Medium |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js),  | Medium |

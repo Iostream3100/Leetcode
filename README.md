@@ -23,4 +23,6 @@
 | 0014 | Longest Common Prefix | [String](src/0014.longest-common-prefix.14/0014.longest-common-prefix.14.1.js) | Easy |
 | 0015 | 3Sum | [Array](src/0015.3Sum.15/0015.3Sum.15.1.js), [Two Pointers](src/0015.3Sum.15/0015.3Sum.15.2.js) | Medium |
 | 0016 | 3Sum Closest | [Array/Two Pointers](src/0016.3Sum-closest.16/0016.3Sum-closest.16.1.js)| Medium |
+| 0017 | Letter Combinations of a Phone Number | [String](src/0017.letter-combinations-of-a-phone-number.17/0017.letter-combinations-of-a-phone-number.17.1.js)| Medium |
+| 0018 | 4Sum | [Two Pointers](src/0018.4Sum.18/0018.4Sum.18.1.js) | Mediwum |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js),  | Medium |

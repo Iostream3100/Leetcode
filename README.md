@@ -27,4 +27,5 @@
 | 0018 | 4Sum | [Two Pointers](src/0018.4Sum.18/0018.4Sum.18.1.js) | Medium |
 | 0019 | Remove Nth Node From End of List | [Linked List](src/0019.remove-Nth-node-from-end-of-list.19/0019.remove-Nth-node-from-end-of-list.19.1.js) | Medium |
 | 0020 | Valid Parentheses | [Stack](src/0020.valid-parentheses.20/0020.valid-parentheses.20.1.js) | Easy |
+| 0021 | Merge Two Sorted Lists | [Linked List](src/0021.merge-two-sorted-lists.21/0021.merge-two-sorted-lists.21.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

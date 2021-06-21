@@ -29,5 +29,6 @@
 | 0020 | Valid Parentheses | [Stack](src/0020.valid-parentheses.20/0020.valid-parentheses.20.1.js) | Easy |
 | 0021 | Merge Two Sorted Lists | [Linked List](src/0021.merge-two-sorted-lists.21/0021.merge-two-sorted-lists.21.1.js) | Easy |
 | 0022 | Generate Parentheses | [Backtracking/Closure Number](src/0022.generate-parentheses.22/0022.generate-parentheses.22.1.js) | Medium |
-| 0023 | Merge k Sorted Lists | [Linked List/Merge Lists One by One](src/0023.merge-k-sorted-lists.23/0023.merge-k-sorted-lists.23.1.js), [Compare one by one](src/0023.merge-k-sorted-lists.23/0023.merge-k-sorted-lists.23.2.js) | Hard |
+| 0023 | Merge k Sorted Lists | [Linked List/Merge Lists One by One](src/0023.merge-k-sorted-lists.23/0023.merge-k-sorted-lists.23.1.js), [Linked List/Compare One by One](src/0023.merge-k-sorted-lists.23/0023.merge-k-sorted-lists.23.2.js) | Hard |
+| 0024 | Swap Nodes in Pairs | [Linked List](src/0024.swap-nodes-in-pairs.24/0024.swap-nodes-in-pairs.24.1.js) | Medium |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

@@ -2,6 +2,7 @@
 
 ## Links
 [Leetcode Personal Profile](https://leetcode.com/iostream3100/)
+[Leetcode Notebook](Notebook.md)
 
 ## Index
 

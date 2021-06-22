@@ -33,4 +33,5 @@
 | 0024 | Swap Nodes in Pairs | [Linked List](src/0024.swap-nodes-in-pairs.24/0024.swap-nodes-in-pairs.24.1.js) | Medium |
 | 0025 | Reverse Nodes in k-Group | [Linked List](src/0025.reverse-nodes-in-k-group.25/0025.reverse-nodes-in-k-group.25.1.js) | Hard |
 | 0026 | Remove Duplicates from Sorted Array | [Array/Two Pointers](src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.1.js) | Easy |
+| 0027 | Remove Element | [Array/Two Pointers](src/0027.remove-element.27/0027.remove-element.27.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

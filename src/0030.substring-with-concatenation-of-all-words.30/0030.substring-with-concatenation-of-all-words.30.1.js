@@ -11,8 +11,9 @@ var findSubstring = function(s, words) {
 
   let dic = {};
   for(let i of words) {
-    if(!dic.hasOwnProperty(i)) dic[i] = 1;
-    else dic[i] ++;
+    // if(!dic.hasOwnProperty(i)) dic[i] = 1;
+    // else dic[i] ++;
+    dic[i] = dic[i] + 1 || 1;
   }
   // console.log(dic);
 
@@ -58,3 +59,4 @@ console.log(findSubstring("barfoothefoobarman", ["foo","bar"]));
 
 console.log(findSubstring("wordgoodgoodgoodbestword", ["word","good","best","word"]));
 console.log(findSubstring("barfoofoobarthefoobarman", ["bar","foo","the"]));
+

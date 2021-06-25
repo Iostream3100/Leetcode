@@ -37,5 +37,6 @@
 | 0026 | Remove Duplicates from Sorted Array | [Array/Two Pointers](src/0026.remove-duplicates-from-sorted-array.26/0026.remove-duplicates-from-sorted-array.26.1.js) | Easy |
 | 0027 | Remove Element | [Array/Two Pointers](src/0027.remove-element.27/0027.remove-element.27.1.js) | Easy |
 | 0029 | Divide Two Integers | [Math/Bit Operation](src/0029.divide-two-intergers.29/0029.divide-two-intergers.29.1.js) | Medium |
-| 0030 |  Substring with Concatenation of All Words | [String/Two Pointers](src/0030.substring-with-concatenation-of-all-words.30/0030.substring-with-concatenation-of-all-words.30.1.js) | Hard |
+| 0030 |  Substring with Concatenation of All Words | [String/Sliding Window](src/0030.substring-with-concatenation-of-all-words.30/0030.substring-with-concatenation-of-all-words.30.1.js) | Hard |
+| 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

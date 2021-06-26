@@ -40,4 +40,5 @@
 | 0030 |  Substring with Concatenation of All Words | [String/Sliding Window](src/0030.substring-with-concatenation-of-all-words.30/0030.substring-with-concatenation-of-all-words.30.1.js) | Hard |
 | 0031 |   Next Permutation | [Array/Two Pointers](src/0031.next-permutation.31/0031.next-permutation.31.1.js), [Array/Two Pointers 2](src/0031.next-permutation.31/0031.next-permutation.31.2.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
+| 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

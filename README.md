@@ -39,7 +39,7 @@
 | 0029 | Divide Two Integers | [Math/Bit Operation](src/0029.divide-two-intergers.29/0029.divide-two-intergers.29.1.js) | Medium |
 | 0030 |  Substring with Concatenation of All Words | [String/Sliding Window](src/0030.substring-with-concatenation-of-all-words.30/0030.substring-with-concatenation-of-all-words.30.1.js) | Hard |
 | 0031 |   Next Permutation | [Array/Two Pointers](src/0031.next-permutation.31/0031.next-permutation.31.1.js), [Array/Two Pointers 2](src/0031.next-permutation.31/0031.next-permutation.31.2.js)| Medium |
-| 0032 |   Longest Valid Parentheses | [String](src/0032.longest-valid-parentheses.32/0032.longest-valid-parentheses.32.1.js), [Two Pointers](src/0032.longest-valid-parentheses.32/0032.longest-valid-parentheses.32.2.js)| Hard |
+| 0032 |   Longest Valid Parentheses | [String](src/0032.longest-valid-parentheses.32/0032.longest-valid-parentheses.32.1.js), [Two Pointers](src/0032.longest-valid-parentheses.32/0032.longest-valid-parentheses.32.2.js), [Dynamic Programming](src/0032.longest-valid-parentheses.32/0032.longest-valid-parentheses.32.3.js)| Hard |
 | 0092 |  Reverse Linked List II | [Linked List](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

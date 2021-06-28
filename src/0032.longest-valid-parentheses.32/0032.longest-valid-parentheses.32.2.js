@@ -6,7 +6,7 @@ var longestValidParentheses = function(s) {
   if(s.length <= 1) return 0;
 
   let l = 0;
-  while(l < s.length - 1 && s[l]!='(') l++;//find the first left parenthesis
+  while(l < s.length - 1 && s[l]!='(') l++;//find the first left parentheses
   if(l == s.length - 1) return 0;
   let r = l + 1;
 
@@ -52,7 +52,7 @@ var longestValidParentheses = function(s) {
   s = li.join("");
 
   l = 0;
-  while(l < s.length - 1 && s[l]!='(') l++;//find the first left parenthesis
+  while(l < s.length - 1 && s[l]!='(') l++;//find the first left parentheses
   r = l + 1;
 
   cnt = 1;

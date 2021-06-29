@@ -43,6 +43,7 @@
 | 0033 |   Search in Rotated Sorted Array | [Binary Search](src/0033.search-in-rotated-sorted-array.33/0033.search-in-rotated-sorted-array.33.1.js), [Binary Search(Optimized)](src/0033.search-in-rotated-sorted-array.33/0033.search-in-rotated-sorted-array.33.2.js)| Medium |
 | 0034 |   Find First and Last Position of Element in Sorted Array | [Binary Search](src/0034.find-first-and-last-position-of-element-in-sorted-array.34/0034.find-first-and-last-position-of-element-in-sorted-array.34.1.js)| Medium |
 | 0035 |   Search Insert Position | [Binary Search](src/0035.search-insert-position.35/0035.search-insert-position.35.1.js)| Easy |
+| 0036 |   Valid Sudoku | [Array/Martix](src/0036.valid-soduku.36/0036.valid-soduku.36.1.js)| Medium |
 | 0092 |  Reverse Linked List II | [Linked List](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

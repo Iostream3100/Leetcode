@@ -7,21 +7,21 @@ var combinationSum = function(candidates, target) {
   if(target == 0) return [[]];
   if(candidates.length == 0 && target != 0) return false;
   // if(candidates[candidates.length - 1] > target) return false;
-  let c = candidates[candidates.length - 1];
+  let curNum = candidates[candidates.length - 1];
   let result = [];
   candidates.pop();
-  for(let i = 0; i <= Math.floor(target / c); ++i) {
-    let ans = combinationSum(candidates, target - i * c);
-    if(ans) {
-      for(let j = 0; j < ans.length; ++j) {
+  for(let i = 0; i <= Math.floor(target / curNum); ++i) {
+    let ansList = combinationSum(candidates, target - i * curNum);
+    if(ansList) {
+      for(let j = 0; j < ansList.length; ++j) {
         for(let k = 0; k < i; ++k) {
-          ans[j].push(c);
+          ansList[j].push(curNum);
         }
       }
-      for(let i of ans) result.push(i);
+      for(let i of ansList) result.push(i);
     }
   }
-  candidates.push(c);
+  candidates.push(curNum);
   return result;
 };
 

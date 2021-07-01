@@ -49,6 +49,7 @@
 | 0039 |    Combination Sum  | [DFS/Backtracking](src/0039.combination-sum.39/0039.combination-sum.39.1.js)| Medium |
 | 0040 |    Combination Sum II  | [DFS/Backtracking](src/0040.combination-sum-II.40/0040.combination-sum-II.40.1.js)| Medium |
 | 0041 |     First Missing Positive  | [Hash Table](src/0041-first-missing-positive.41/0041-first-missing-positive.41.1.js)| Hard |
+| 0042 |     Trapping Rain Water  | [Dynamic Programming](src/0042-trappinng-rain-water.42/0042-trappinng-rain-water.42.1.js), [Two Pointers](src/0042-trappinng-rain-water.42/0042-trappinng-rain-water.42.2.js)| Hard |
 | 0092 |  Reverse Linked List II | [Linked List](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

@@ -13,7 +13,7 @@ var permute = function(nums) {
     for(let j = 0; j <= ansList[i].length; ++j) {
       let l = ansList[i].slice(0, j);
       l.push(cur);
-      let r = ansList[i].slice(j, ansList.length);
+      let r = ansList[i].slice(j, ansList[i].length);
       result.push(l.concat(r));
     }
   }
@@ -21,4 +21,4 @@ var permute = function(nums) {
   return result;
 };
 
-console.log(permute([1,2,3]));
+console.log(permute([1,2,3,4,5,6,7]));

@@ -53,7 +53,7 @@
 | 0042 |     Trapping Rain Water  | [Dynamic Programming](src/0042-trappinng-rain-water.42/0042-trappinng-rain-water.42.1.js), [Two Pointers](src/0042-trappinng-rain-water.42/0042-trappinng-rain-water.42.2.js)| Hard |
 | 0043 |     Multiply Strings  | [Math/String/Simulation](src/0043.multiply-strings.43/0043.multiply-strings.43.1.js)| Medium |
 | 0044 |     Wildcard Matching  | [Dynamic Programming](src/0044.wildcard-matching.44/0044.wildcard-matching.44.1.js)| Hard |
-| 0045 |     Jump Game II  | [Dynamic Programming](src/0045.jump-game-II.45/0045.jump-game-II.45.1.js)| Medium |
+| 0045 |     Jump Game II  | [Dynamic Programming](src/0045.jump-game-II.45/0045.jump-game-II.45.1.js), [Dynamic Programming(Optimized)](src/0045.jump-game-II.45/0045.jump-game-II.45.2.js), [BFS](src/0045.jump-game-II.45/0045.jump-game-II.45.3.js)| Medium |
 | 0046 |     Permutations   | [DFS/Backtracking](src/0046-permutations.46/0046-permutations.46.1.js)| Medium |
 | 0047 |     Permutations II  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |
 | 0048 |     Rotate Image  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |

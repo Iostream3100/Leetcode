@@ -56,7 +56,7 @@
 | 0045 |     Jump Game II  | [Dynamic Programming](src/0045.jump-game-II.45/0045.jump-game-II.45.1.js), [Dynamic Programming(Optimized)](src/0045.jump-game-II.45/0045.jump-game-II.45.2.js), [BFS](src/0045.jump-game-II.45/0045.jump-game-II.45.3.js)| Medium |
 | 0046 |     Permutations   | [DFS/Backtracking](src/0046-permutations.46/0046-permutations.46.1.js)| Medium |
 | 0047 |     Permutations II  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |
-| 0048 |     Rotate Image  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |
+| 0048 |     Rotate Image  | [Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0049 |     Group Anagrams  | [String/Sorting](src/0049.group-anagrams.49/0049.group-anagrams.49.1.js), [String/Hash Table](src/0049.group-anagrams.49/0049.group-anagrams.49.2.js)| Medium |
 | 0050 |     Pow(x, n)  | [Math/Recursion](src/0050.pow(x,n).50/0050.pow(x,n).50.1.js)| Medium |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |

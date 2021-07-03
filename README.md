@@ -57,6 +57,7 @@
 | 0046 |     Permutations   | [DFS/Backtracking](src/0046-permutations.46/0046-permutations.46.1.js)| Medium |
 | 0047 |     Permutations II  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |
 | 0048 |     Rotate Image  | [DFS/Backtracking](src/0047.premutations-II.47/0047.premutations-II.47.1.js)| Medium |
+| 0049 |     Group Anagrams  | [String/Sorting](src/0049.group-anagrams.49/0049.group-anagrams.49.1.js)| Medium |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

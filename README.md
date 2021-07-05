@@ -59,6 +59,7 @@
 | 0048 |     Rotate Image  | [Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0049 |     Group Anagrams  | [String/Sorting](src/0049.group-anagrams.49/0049.group-anagrams.49.1.js), [String/Hash Table](src/0049.group-anagrams.49/0049.group-anagrams.49.2.js)| Medium |
 | 0050 |     Pow(x, n)  | [Math/Recursion](src/0050.pow(x,n).50/0050.pow(x,n).50.1.js)| Medium |
+| 0051 |      N-Queens  | [DFS/Backtracking](src/0051.n-queens.51/0051.n-queens.51.1.js)| Hard |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

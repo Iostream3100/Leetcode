@@ -63,6 +63,7 @@
 | 0052 |      N-Queens II  | [DFS/Backtracking](src/0052.n-queens-II.52/0052.n-queens-II.52.1.js), [DFS/Backtracking(Optimized)](src/0052.n-queens-II.52/0052.n-queens-II.52.2.js)| Hard |
 | 0053 |      Maximum Subarray  | [Dynamic Programming](src/0053.maximum-subarray.53/0053.maximum-subarray.53.1.js)| Easy |
 | 0054 |      Spiral Matrix  | [Matrix/Simulation](src/0054.spiral-matrix.54/0054.spiral-matrix.54.1.js)| Medium |
+| 0055 |      Jump Game  | [BFS](src/0055.jump-game.55/0055.jump-game.55.1.js), [Greedy](src/0055.jump-game.55/0055.jump-game.55.2.js)| Medium |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

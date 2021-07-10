@@ -66,6 +66,7 @@
 | 0055 |      Jump Game  | [BFS](src/0055.jump-game.55/0055.jump-game.55.1.js), [Greedy](src/0055.jump-game.55/0055.jump-game.55.2.js)| Medium |
 | 0056 |      Merge Intervals  | [Math/Array](src/0056.merge-intervals.56/0056.merge-intervals.56.1.js)| Medium |
 | 0057 |      Insert interval  | [Binary Search](src/0057.insert-interval.57/0057.insert-interval.57.1.js)| Medium |
+| 0058 |       Length of Last Word  | [String](src/0058.length-of-last-word.58/0058.length-of-last-word.58.1.js)| Easy |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

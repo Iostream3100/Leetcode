@@ -70,6 +70,7 @@
 | 0059 |       Spiral Matrix II  | [Matrix/Simulation](src/0059.spiral-matrix-II.59)| Medium |
 | 0060 |       Permutation Sequence  | [Matrix](src/0060.permutation-sequence.60/0060.permutation-sequence.60.1.js)| Hard |
 | 0061 |       Rotate List  | [Linked List](src/0061.rotate-list.61/0061.rotate-list.61.1.js)| Medium |
+| 0062 |       Unique Paths  | [Dynamic Programming](src/0062.unique-paths.62/0062.unique-paths.62.1.js)| Medium |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

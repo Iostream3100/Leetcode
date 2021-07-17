@@ -73,6 +73,8 @@
 | 0062 |       Unique Paths  | [Dynamic Programming](src/0062.unique-paths.62/0062.unique-paths.62.1.js)| Medium |
 | 0063 |       Unique Paths II  | [Dynamic Programming](src/0063.unique-paths-II.63/0063.unique-paths-II.63.1.js)| Medium |
 | 0064 |       Minimum Path Sum  | [Dynamic Programming](src/0064.minimum-path-sum.64/0064.minimum-path-sum.64.1.js)| Medium |
+| 0065 |       Valid Number  | [String](src/0065.valid-number.65/0065.valid-number.65.1.js)| Hard |
+
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

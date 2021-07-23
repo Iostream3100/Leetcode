@@ -75,7 +75,9 @@
 | 0064 |       Minimum Path Sum  | [Dynamic Programming](src/0064.minimum-path-sum.64/0064.minimum-path-sum.64.1.js)| Medium |
 | 0065 |       Valid Number  | [String](src/0065.valid-number.65/0065.valid-number.65.1.js)| Hard |
 | 0066 |       Plus One  | [Array](src/0066.plus-one.66/0066.plus-one.66.1.js)| Easy |
-| 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0048.rotate-image.48/0048.rotate-image.48.1.js)| Medium |
+| 0067 |       Add Binary  | [Math/String](src/0067.add-binary.67/0067.add-binary.67.1.js)| Easy |
+| 0068 |       Text Justification  | [String/Simulation](src/0068.text.justification.68/0068.text.justification.68.1.js)| Hard |
+| 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |
 | 0319 | Bulb Switcher | [Math](src/0319.bulb-switcher.319/0319.bulb-switcher.319.1.js) | Medium |

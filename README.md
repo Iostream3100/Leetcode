@@ -77,6 +77,8 @@
 | 0066 |       Plus One  | [Array](src/0066.plus-one.66/0066.plus-one.66.1.js)| Easy |
 | 0067 |       Add Binary  | [Math/String](src/0067.add-binary.67/0067.add-binary.67.1.js)| Easy |
 | 0068 |       Text Justification  | [String/Simulation](src/0068.text.justification.68/0068.text.justification.68.1.js)| Hard |
+| 0069 |       Sqrt(x)  | [Binary Search](src/0069.sqrt(x).69/0069.sqrt(x).69.1.js)| Easy |
+| 0070 |       Climbing Stairs  | [Math](src/0070.climbing-stairs.70/0070.climbing-stairs.70.1.js)| Easy |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

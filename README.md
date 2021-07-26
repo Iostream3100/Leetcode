@@ -81,6 +81,7 @@
 | 0070 |       Climbing Stairs  | [Math](src/0070.climbing-stairs.70/0070.climbing-stairs.70.1.js)| Easy |
 | 0071 |       Simplify Path  | [String/Stack](src/0071.simplify-path.71/0071.simplify-path.71.1.js)| Medium |
 | 0072 |       Edit Distance  | [Dynamic Programming](src/0072.edit-distance.72/0072.edit-distance.72.1.js), [Dynamic Programming(Optimized)](src/0072.edit-distance.72/0072.edit-distance.72.2.js)| Hard |
+| 0073 |       Set Matrix Zeroes  | [Array](src/0073.set-matrix-zeroes.73/0073.set-matrix-zeroes.73.1.js), [Array(Constant Extra Space)](src/0073.set-matrix-zeroes.73/0073.set-matrix-zeroes.73.2.js)| Medium |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |

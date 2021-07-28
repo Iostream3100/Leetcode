@@ -84,6 +84,7 @@
 | 0073 |       Set Matrix Zeroes  | [Array](src/0073.set-matrix-zeroes.73/0073.set-matrix-zeroes.73.1.js), [Array(Constant Extra Space)](src/0073.set-matrix-zeroes.73/0073.set-matrix-zeroes.73.2.js)| Medium |
 | 0074 |       Search a 2D Matrix  | [Array/Binary Search/Matrix](src/0074.search-a-2D-matrix.74/0074.search-a-2D-matrix.74.1.js)| Medium |
 | 0075 |       Sort Colors  | [Sort](src/0075.sort-colors.75/0075.sort-colors.75.1.js), [Two Pass](src/0075.sort-colors.75/0075.sort-colors.75.2.js)| Medium |
+| 0076 |   Minimum Window Substring | [Two Pointers](src/0076.minimum-window-substring.76/0076.minimum-window-substring.76.1.js), [Two Pointers(Optimized)](src/0076.minimum-window-substring.76/0076.minimum-window-substring.76.2.js)| Hard |
 | 0092 |  Reverse Linked List II | [Array/Math/Matrix](src/0092.reverse-linked-list-II.92/0092.reverse-linked-list-II.92.1.js)| Medium |
 | 0206 |  Reverse Linked List | [Linked List](src/0206.reverse-linked-list.206/0206.reverse-linked-list.206.1.js) | Easy |
 | 0237 |  Delete Node in a Linked List | [Linked List](src/0237.delete-node-in-a-linked-list.237/0237.delete-node-in-a-linked-list.237.1.js) | Easy |
